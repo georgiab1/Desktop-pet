@@ -2,20 +2,6 @@ import tkinter as tk
 import time
 import random
 
-#dev notes v1
-#hi tommy! felt bad you might miss reginald so i made you this
-#i added hashtags at places incase you wanna change anything
-#hope you like it :)
-
-#dev notes v2
-#reginald wanted to do more things
-#i added more things
-
-#dev notes v3
-# i miss reginald :(
-#...and you i guess
-#enjoy venice update :)
-
 class pet():
     def __init__(self):
 
